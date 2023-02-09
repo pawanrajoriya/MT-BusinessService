@@ -1,10 +1,13 @@
-# CS-MoneyTranfer-JFS-16
+# Case Study: Money Transfer
 
-Java Full Stack Session
-Group 16
-Case Study: Money Transfer 
+Started on 9-Feb-2023 as part of Java Full Stack Training program.
 
-Developers:
+## Team
+  Group 16 <br> 
+
+
+## Developers:
+
 - Murali
 - Sushant
 - Shweta 
@@ -12,3 +15,5 @@ Developers:
 - Monica
 - Lakshmi
 - Pawan
+
+

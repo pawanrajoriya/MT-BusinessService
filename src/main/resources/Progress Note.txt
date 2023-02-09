@@ -43,3 +43,23 @@ Fun 4: (Pawan)
 - VSCode for Angular, UI
 - MySQL
 
+
+Entities:
+User:
+- FullName
+- UserName
+- Password
+- Account
+
+Account:
+- AccountNumber
+- Balance
+- List<Transaction>
+
+
+Transaction:
+- Date&Time
+- FromAccount
+- ToAccount
+- Amount
+
